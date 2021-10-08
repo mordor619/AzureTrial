@@ -1,1 +1,3 @@
 # AzureTrial
+
+deploy to azure
